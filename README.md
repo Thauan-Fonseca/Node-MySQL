@@ -6,3 +6,4 @@ Para  coseguir rodar esse projeto na sua máquina basta instalar as dependência
 e ter um softawe como Postman ou Insominia para siular as requisições feitas ao banco de dados. ⌨️
 
 ### ⚙️ Executando 
+![Rodado o projeto](https://github.com/Thauan-Fonseca/Node-MySQL/blob/main/giphy-_2_%20(1).gif)
